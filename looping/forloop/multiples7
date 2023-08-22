@@ -1,0 +1,6 @@
+# print all the no:s which are multiples of 7 frm 1_100
+
+
+for i in range(1,101):
+    if i%7==0:
+        print(i)

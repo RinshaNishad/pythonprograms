@@ -1,0 +1,19 @@
+.container{
+    background-color: wheat;
+    height: 400px;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+   
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.one,.two,.three,.four,.five{
+    width: 300px;
+    height: 100px;
+    filter: contrast(10);
+
+}   
+

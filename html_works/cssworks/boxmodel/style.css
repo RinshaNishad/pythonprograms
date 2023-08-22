@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+
+
+.section{
+    width: 30%;
+    height:100px;
+    background-color:aquamarine;
+    border: 1px solid black;
+}
+
+.nav{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.footer{
+    margin-top: 50%;
+    margin-left: 200px;
+}

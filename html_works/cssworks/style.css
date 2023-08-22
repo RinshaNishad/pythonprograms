@@ -1,0 +1,40 @@
+/* 
+tagname{}
+#id_name{}
+.class_name{}----btr approach
+*/
+
+
+body{
+    background-color: black;
+    height: 100vh;
+}
+/* h1{
+    color: wheat;
+    text-decoration: underline;
+} */
+a{
+    color: white;
+    text-decoration: none;
+}
+/* #id_tag{
+    color: aqua;
+}
+#offer_link{
+    color: red;
+} */
+
+.heading{
+    color: white;
+    text-decoration: underline;
+}
+.heading-success{
+    color: blueviolet;
+}
+.card{
+    color: white;
+    background-color: aquamarine;
+    width:30%;
+    height: 200px;
+    
+}
